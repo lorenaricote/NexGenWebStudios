@@ -1,0 +1,24 @@
+{
+  "name": "nexgenwebstudios",
+  "version": "1.0.0",
+  "description": "Proyecto: Mission Start: Auditoría de Rendimiento y Estandarización del Workspace en \"NextGen Web Solutions\r ├── index.html          # Estructura (Esqueleto)\r ├── css/\r │   └── styles.css      # Estilos (Piel)\r ├── js/\r │   ├── main.js         # Lógica principal (Cerebro)\r │   └── utils.js        # Funciones de ayuda\r ├── .gitignore          # Archivos que Git debe ignorar\r └── package.json        # Gestión de dependencias (npm)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenaricote/NexGenWebStudios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lorenaricote/NexGenWebStudios/issues"
+  },
+  "homepage": "https://github.com/lorenaricote/NexGenWebStudios#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
