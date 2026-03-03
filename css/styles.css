@@ -1,0 +1,11 @@
+/* css/styles.css */
+:root {
+    --primary-color: #2c3e50;
+    --error-color: #e74c3c;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.6;
+    color: var(--primary-color);
+}
